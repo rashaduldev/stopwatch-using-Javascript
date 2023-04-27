@@ -30,4 +30,7 @@ body{
     padding: 12px 24px;
     cursor: pointer;
     background-color: #fff;
+    border: none;
+    outline: none;
+    border-radius: 0.5rem;
 }
