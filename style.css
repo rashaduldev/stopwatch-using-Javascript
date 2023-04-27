@@ -26,10 +26,11 @@ body{
 .buttons{
     margin-top: 10px;
 }
-.btn{
+button.btn{
     padding: 12px 24px;
     cursor: pointer;
-    background-color: #fff;
+    background-color: var(--clr);
+    color: #fff;
     border: none;
     outline: none;
     border-radius: 0.5rem;
